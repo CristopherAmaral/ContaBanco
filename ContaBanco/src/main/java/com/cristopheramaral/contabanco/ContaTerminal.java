@@ -23,10 +23,10 @@ public class ContaTerminal {
         numero = valorInformado.nextInt();
         
         System.out.println("Por favor digite o numero da Agência !");
-        agencia = valorInformado.nextLine();
+        agencia = valorInformado.next();
         
         System.out.println("Por favor digite o nome do Cliente");
-        nomeCliente = valorInformado.nextLine();
+        nomeCliente = valorInformado.next();
         
         System.out.println("Por favor digite o Saldo da Conta");
         saldo = valorInformado.nextDouble();

@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class ContaTerminal {
 
-    //so para teste
+    //so para teste de commit
     public static void main(String[] args) {
 
         int numero = 0;

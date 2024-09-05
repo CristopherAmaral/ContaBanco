@@ -11,6 +11,7 @@ import java.util.Scanner;
  */
 public class ContaTerminal {
 
+    //so para teste
     public static void main(String[] args) {
 
         int numero = 0;
